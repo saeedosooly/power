@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt 
+#define an array
 A = np.array([[6,2],
               [2,3]])
 u_0 = np.array([[1],
